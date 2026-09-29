@@ -1,6 +1,6 @@
 Summary: An XML parser library
 Name: expat
-Version: 2.7.4
+Version: 2.8.5
 Release: 1
 Source0: %{name}-%{version}.tar.gz
 URL: https://github.com/sailfishos/expat/
